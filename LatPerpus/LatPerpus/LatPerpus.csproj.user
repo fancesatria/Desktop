@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Anggota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CariBuku.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DetailPinjam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HistoryPengembalian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HistoryPinjam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kategori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lokasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManajemenUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MasterBuku.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuAnggota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Peminjaman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pengembalian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Petugas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TambahPinjam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
