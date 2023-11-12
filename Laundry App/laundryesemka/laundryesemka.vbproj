@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{115114DC-1045-464D-B0B6-8714C1ACCD68}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>laundryesemka.My.MyApplication</StartupObject>
+    <RootNamespace>laundryesemka</RootNamespace>
+    <AssemblyName>laundryesemka</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>laundryesemka.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>laundryesemka.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addCustomer.Designer.vb">
+      <DependentUpon>addCustomer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="addCustomer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="laundressForm.Designer.vb">
+      <DependentUpon>laundressForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="laundressForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainForm.Designer.vb">
+      <DependentUpon>mainForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masterEmployee.Designer.vb">
+      <DependentUpon>masterEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="masterEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masterPackage.Designer.vb">
+      <DependentUpon>masterPackage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="masterPackage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masterService.Designer.vb">
+      <DependentUpon>masterService.vb</DependentUpon>
+    </Compile>
+    <Compile Include="masterService.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modul.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="prepaidPackage.Designer.vb">
+      <DependentUpon>prepaidPackage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="prepaidPackage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="requestJemput.Designer.vb">
+      <DependentUpon>requestJemput.vb</DependentUpon>
+    </Compile>
+    <Compile Include="requestJemput.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trasnDeposit.Designer.vb">
+      <DependentUpon>trasnDeposit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="trasnDeposit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewTransaction.Designer.vb">
+      <DependentUpon>viewTransaction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="viewTransaction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="addCustomer.resx">
+      <DependentUpon>addCustomer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laundressForm.resx">
+      <DependentUpon>laundressForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainForm.resx">
+      <DependentUpon>mainForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masterEmployee.resx">
+      <DependentUpon>masterEmployee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masterPackage.resx">
+      <DependentUpon>masterPackage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masterService.resx">
+      <DependentUpon>masterService.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="prepaidPackage.resx">
+      <DependentUpon>prepaidPackage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="requestJemput.resx">
+      <DependentUpon>requestJemput.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trasnDeposit.resx">
+      <DependentUpon>trasnDeposit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewTransaction.resx">
+      <DependentUpon>viewTransaction.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
