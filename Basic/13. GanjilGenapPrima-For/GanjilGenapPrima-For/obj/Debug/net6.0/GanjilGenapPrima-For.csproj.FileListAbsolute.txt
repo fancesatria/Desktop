@@ -1,0 +1,15 @@
+C:\Users\mmsme\source\repos\GanjilGenapPrima-For\GanjilGenapPrima-For\bin\Debug\net6.0\GanjilGenapPrima-For.exe
+C:\Users\mmsme\source\repos\GanjilGenapPrima-For\GanjilGenapPrima-For\bin\Debug\net6.0\GanjilGenapPrima-For.deps.json
+C:\Users\mmsme\source\repos\GanjilGenapPrima-For\GanjilGenapPrima-For\bin\Debug\net6.0\GanjilGenapPrima-For.runtimeconfig.json
+C:\Users\mmsme\source\repos\GanjilGenapPrima-For\GanjilGenapPrima-For\bin\Debug\net6.0\GanjilGenapPrima-For.dll
+C:\Users\mmsme\source\repos\GanjilGenapPrima-For\GanjilGenapPrima-For\bin\Debug\net6.0\GanjilGenapPrima-For.pdb
+C:\Users\mmsme\source\repos\GanjilGenapPrima-For\GanjilGenapPrima-For\obj\Debug\net6.0\GanjilGenapPrima-For.csproj.AssemblyReference.cache
+C:\Users\mmsme\source\repos\GanjilGenapPrima-For\GanjilGenapPrima-For\obj\Debug\net6.0\GanjilGenapPrima-For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmsme\source\repos\GanjilGenapPrima-For\GanjilGenapPrima-For\obj\Debug\net6.0\GanjilGenapPrima-For.AssemblyInfoInputs.cache
+C:\Users\mmsme\source\repos\GanjilGenapPrima-For\GanjilGenapPrima-For\obj\Debug\net6.0\GanjilGenapPrima-For.AssemblyInfo.cs
+C:\Users\mmsme\source\repos\GanjilGenapPrima-For\GanjilGenapPrima-For\obj\Debug\net6.0\GanjilGenapPrima-For.csproj.CoreCompileInputs.cache
+C:\Users\mmsme\source\repos\GanjilGenapPrima-For\GanjilGenapPrima-For\obj\Debug\net6.0\GanjilGenapPrima-For.dll
+C:\Users\mmsme\source\repos\GanjilGenapPrima-For\GanjilGenapPrima-For\obj\Debug\net6.0\refint\GanjilGenapPrima-For.dll
+C:\Users\mmsme\source\repos\GanjilGenapPrima-For\GanjilGenapPrima-For\obj\Debug\net6.0\GanjilGenapPrima-For.pdb
+C:\Users\mmsme\source\repos\GanjilGenapPrima-For\GanjilGenapPrima-For\obj\Debug\net6.0\GanjilGenapPrima-For.genruntimeconfig.cache
+C:\Users\mmsme\source\repos\GanjilGenapPrima-For\GanjilGenapPrima-For\obj\Debug\net6.0\ref\GanjilGenapPrima-For.dll

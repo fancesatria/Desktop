@@ -1,0 +1,15 @@
+C:\Users\mmsme\source\repos\GenapGanjilPrima-While\GenapGanjilPrima-While\bin\Debug\net6.0\GenapGanjilPrima-While.exe
+C:\Users\mmsme\source\repos\GenapGanjilPrima-While\GenapGanjilPrima-While\bin\Debug\net6.0\GenapGanjilPrima-While.deps.json
+C:\Users\mmsme\source\repos\GenapGanjilPrima-While\GenapGanjilPrima-While\bin\Debug\net6.0\GenapGanjilPrima-While.runtimeconfig.json
+C:\Users\mmsme\source\repos\GenapGanjilPrima-While\GenapGanjilPrima-While\bin\Debug\net6.0\GenapGanjilPrima-While.dll
+C:\Users\mmsme\source\repos\GenapGanjilPrima-While\GenapGanjilPrima-While\bin\Debug\net6.0\GenapGanjilPrima-While.pdb
+C:\Users\mmsme\source\repos\GenapGanjilPrima-While\GenapGanjilPrima-While\obj\Debug\net6.0\GenapGanjilPrima-While.csproj.AssemblyReference.cache
+C:\Users\mmsme\source\repos\GenapGanjilPrima-While\GenapGanjilPrima-While\obj\Debug\net6.0\GenapGanjilPrima-While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmsme\source\repos\GenapGanjilPrima-While\GenapGanjilPrima-While\obj\Debug\net6.0\GenapGanjilPrima-While.AssemblyInfoInputs.cache
+C:\Users\mmsme\source\repos\GenapGanjilPrima-While\GenapGanjilPrima-While\obj\Debug\net6.0\GenapGanjilPrima-While.AssemblyInfo.cs
+C:\Users\mmsme\source\repos\GenapGanjilPrima-While\GenapGanjilPrima-While\obj\Debug\net6.0\GenapGanjilPrima-While.csproj.CoreCompileInputs.cache
+C:\Users\mmsme\source\repos\GenapGanjilPrima-While\GenapGanjilPrima-While\obj\Debug\net6.0\GenapGanjilPrima-While.dll
+C:\Users\mmsme\source\repos\GenapGanjilPrima-While\GenapGanjilPrima-While\obj\Debug\net6.0\refint\GenapGanjilPrima-While.dll
+C:\Users\mmsme\source\repos\GenapGanjilPrima-While\GenapGanjilPrima-While\obj\Debug\net6.0\GenapGanjilPrima-While.pdb
+C:\Users\mmsme\source\repos\GenapGanjilPrima-While\GenapGanjilPrima-While\obj\Debug\net6.0\GenapGanjilPrima-While.genruntimeconfig.cache
+C:\Users\mmsme\source\repos\GenapGanjilPrima-While\GenapGanjilPrima-While\obj\Debug\net6.0\ref\GenapGanjilPrima-While.dll

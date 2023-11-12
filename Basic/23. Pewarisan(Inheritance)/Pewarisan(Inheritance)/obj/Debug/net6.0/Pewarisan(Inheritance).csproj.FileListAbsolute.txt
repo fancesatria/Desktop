@@ -1,0 +1,15 @@
+C:\Users\mmsme\source\repos\Pewarisan(Inheritance)\Pewarisan(Inheritance)\bin\Debug\net6.0\Pewarisan(Inheritance).exe
+C:\Users\mmsme\source\repos\Pewarisan(Inheritance)\Pewarisan(Inheritance)\bin\Debug\net6.0\Pewarisan(Inheritance).deps.json
+C:\Users\mmsme\source\repos\Pewarisan(Inheritance)\Pewarisan(Inheritance)\bin\Debug\net6.0\Pewarisan(Inheritance).runtimeconfig.json
+C:\Users\mmsme\source\repos\Pewarisan(Inheritance)\Pewarisan(Inheritance)\bin\Debug\net6.0\Pewarisan(Inheritance).dll
+C:\Users\mmsme\source\repos\Pewarisan(Inheritance)\Pewarisan(Inheritance)\bin\Debug\net6.0\Pewarisan(Inheritance).pdb
+C:\Users\mmsme\source\repos\Pewarisan(Inheritance)\Pewarisan(Inheritance)\obj\Debug\net6.0\Pewarisan(Inheritance).csproj.AssemblyReference.cache
+C:\Users\mmsme\source\repos\Pewarisan(Inheritance)\Pewarisan(Inheritance)\obj\Debug\net6.0\Pewarisan(Inheritance).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmsme\source\repos\Pewarisan(Inheritance)\Pewarisan(Inheritance)\obj\Debug\net6.0\Pewarisan(Inheritance).AssemblyInfoInputs.cache
+C:\Users\mmsme\source\repos\Pewarisan(Inheritance)\Pewarisan(Inheritance)\obj\Debug\net6.0\Pewarisan(Inheritance).AssemblyInfo.cs
+C:\Users\mmsme\source\repos\Pewarisan(Inheritance)\Pewarisan(Inheritance)\obj\Debug\net6.0\Pewarisan(Inheritance).csproj.CoreCompileInputs.cache
+C:\Users\mmsme\source\repos\Pewarisan(Inheritance)\Pewarisan(Inheritance)\obj\Debug\net6.0\Pewarisan(Inheritance).dll
+C:\Users\mmsme\source\repos\Pewarisan(Inheritance)\Pewarisan(Inheritance)\obj\Debug\net6.0\refint\Pewarisan(Inheritance).dll
+C:\Users\mmsme\source\repos\Pewarisan(Inheritance)\Pewarisan(Inheritance)\obj\Debug\net6.0\Pewarisan(Inheritance).pdb
+C:\Users\mmsme\source\repos\Pewarisan(Inheritance)\Pewarisan(Inheritance)\obj\Debug\net6.0\Pewarisan(Inheritance).genruntimeconfig.cache
+C:\Users\mmsme\source\repos\Pewarisan(Inheritance)\Pewarisan(Inheritance)\obj\Debug\net6.0\ref\Pewarisan(Inheritance).dll

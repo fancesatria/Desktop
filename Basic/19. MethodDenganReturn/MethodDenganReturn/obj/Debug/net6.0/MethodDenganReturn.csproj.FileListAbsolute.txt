@@ -1,0 +1,15 @@
+C:\Users\mmsme\source\repos\MethodDenganReturn\MethodDenganReturn\bin\Debug\net6.0\MethodDenganReturn.exe
+C:\Users\mmsme\source\repos\MethodDenganReturn\MethodDenganReturn\bin\Debug\net6.0\MethodDenganReturn.deps.json
+C:\Users\mmsme\source\repos\MethodDenganReturn\MethodDenganReturn\bin\Debug\net6.0\MethodDenganReturn.runtimeconfig.json
+C:\Users\mmsme\source\repos\MethodDenganReturn\MethodDenganReturn\bin\Debug\net6.0\MethodDenganReturn.dll
+C:\Users\mmsme\source\repos\MethodDenganReturn\MethodDenganReturn\bin\Debug\net6.0\MethodDenganReturn.pdb
+C:\Users\mmsme\source\repos\MethodDenganReturn\MethodDenganReturn\obj\Debug\net6.0\MethodDenganReturn.csproj.AssemblyReference.cache
+C:\Users\mmsme\source\repos\MethodDenganReturn\MethodDenganReturn\obj\Debug\net6.0\MethodDenganReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmsme\source\repos\MethodDenganReturn\MethodDenganReturn\obj\Debug\net6.0\MethodDenganReturn.AssemblyInfoInputs.cache
+C:\Users\mmsme\source\repos\MethodDenganReturn\MethodDenganReturn\obj\Debug\net6.0\MethodDenganReturn.AssemblyInfo.cs
+C:\Users\mmsme\source\repos\MethodDenganReturn\MethodDenganReturn\obj\Debug\net6.0\MethodDenganReturn.csproj.CoreCompileInputs.cache
+C:\Users\mmsme\source\repos\MethodDenganReturn\MethodDenganReturn\obj\Debug\net6.0\MethodDenganReturn.dll
+C:\Users\mmsme\source\repos\MethodDenganReturn\MethodDenganReturn\obj\Debug\net6.0\refint\MethodDenganReturn.dll
+C:\Users\mmsme\source\repos\MethodDenganReturn\MethodDenganReturn\obj\Debug\net6.0\MethodDenganReturn.pdb
+C:\Users\mmsme\source\repos\MethodDenganReturn\MethodDenganReturn\obj\Debug\net6.0\MethodDenganReturn.genruntimeconfig.cache
+C:\Users\mmsme\source\repos\MethodDenganReturn\MethodDenganReturn\obj\Debug\net6.0\ref\MethodDenganReturn.dll

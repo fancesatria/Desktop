@@ -1,0 +1,15 @@
+C:\Users\mmsme\source\repos\Abstract\Abstract\bin\Debug\net6.0\Abstract.exe
+C:\Users\mmsme\source\repos\Abstract\Abstract\bin\Debug\net6.0\Abstract.deps.json
+C:\Users\mmsme\source\repos\Abstract\Abstract\bin\Debug\net6.0\Abstract.runtimeconfig.json
+C:\Users\mmsme\source\repos\Abstract\Abstract\bin\Debug\net6.0\Abstract.dll
+C:\Users\mmsme\source\repos\Abstract\Abstract\bin\Debug\net6.0\Abstract.pdb
+C:\Users\mmsme\source\repos\Abstract\Abstract\obj\Debug\net6.0\Abstract.csproj.AssemblyReference.cache
+C:\Users\mmsme\source\repos\Abstract\Abstract\obj\Debug\net6.0\Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmsme\source\repos\Abstract\Abstract\obj\Debug\net6.0\Abstract.AssemblyInfoInputs.cache
+C:\Users\mmsme\source\repos\Abstract\Abstract\obj\Debug\net6.0\Abstract.AssemblyInfo.cs
+C:\Users\mmsme\source\repos\Abstract\Abstract\obj\Debug\net6.0\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\mmsme\source\repos\Abstract\Abstract\obj\Debug\net6.0\Abstract.dll
+C:\Users\mmsme\source\repos\Abstract\Abstract\obj\Debug\net6.0\refint\Abstract.dll
+C:\Users\mmsme\source\repos\Abstract\Abstract\obj\Debug\net6.0\Abstract.pdb
+C:\Users\mmsme\source\repos\Abstract\Abstract\obj\Debug\net6.0\Abstract.genruntimeconfig.cache
+C:\Users\mmsme\source\repos\Abstract\Abstract\obj\Debug\net6.0\ref\Abstract.dll

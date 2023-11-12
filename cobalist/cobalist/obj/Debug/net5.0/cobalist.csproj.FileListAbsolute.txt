@@ -1,0 +1,16 @@
+C:\Users\mmsme\source\repos\cobalist\cobalist\bin\Debug\net5.0\cobalist.exe
+C:\Users\mmsme\source\repos\cobalist\cobalist\bin\Debug\net5.0\cobalist.deps.json
+C:\Users\mmsme\source\repos\cobalist\cobalist\bin\Debug\net5.0\cobalist.runtimeconfig.json
+C:\Users\mmsme\source\repos\cobalist\cobalist\bin\Debug\net5.0\cobalist.runtimeconfig.dev.json
+C:\Users\mmsme\source\repos\cobalist\cobalist\bin\Debug\net5.0\cobalist.dll
+C:\Users\mmsme\source\repos\cobalist\cobalist\bin\Debug\net5.0\ref\cobalist.dll
+C:\Users\mmsme\source\repos\cobalist\cobalist\bin\Debug\net5.0\cobalist.pdb
+C:\Users\mmsme\source\repos\cobalist\cobalist\obj\Debug\net5.0\cobalist.csproj.AssemblyReference.cache
+C:\Users\mmsme\source\repos\cobalist\cobalist\obj\Debug\net5.0\cobalist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmsme\source\repos\cobalist\cobalist\obj\Debug\net5.0\cobalist.AssemblyInfoInputs.cache
+C:\Users\mmsme\source\repos\cobalist\cobalist\obj\Debug\net5.0\cobalist.AssemblyInfo.cs
+C:\Users\mmsme\source\repos\cobalist\cobalist\obj\Debug\net5.0\cobalist.csproj.CoreCompileInputs.cache
+C:\Users\mmsme\source\repos\cobalist\cobalist\obj\Debug\net5.0\cobalist.dll
+C:\Users\mmsme\source\repos\cobalist\cobalist\obj\Debug\net5.0\ref\cobalist.dll
+C:\Users\mmsme\source\repos\cobalist\cobalist\obj\Debug\net5.0\cobalist.pdb
+C:\Users\mmsme\source\repos\cobalist\cobalist\obj\Debug\net5.0\cobalist.genruntimeconfig.cache

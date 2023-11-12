@@ -1,0 +1,15 @@
+C:\Users\mmsme\source\repos\WriteLine\WriteLine\bin\Debug\net6.0\WriteLine.exe
+C:\Users\mmsme\source\repos\WriteLine\WriteLine\bin\Debug\net6.0\WriteLine.deps.json
+C:\Users\mmsme\source\repos\WriteLine\WriteLine\bin\Debug\net6.0\WriteLine.runtimeconfig.json
+C:\Users\mmsme\source\repos\WriteLine\WriteLine\bin\Debug\net6.0\WriteLine.dll
+C:\Users\mmsme\source\repos\WriteLine\WriteLine\bin\Debug\net6.0\WriteLine.pdb
+C:\Users\mmsme\source\repos\WriteLine\WriteLine\obj\Debug\net6.0\WriteLine.csproj.AssemblyReference.cache
+C:\Users\mmsme\source\repos\WriteLine\WriteLine\obj\Debug\net6.0\WriteLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmsme\source\repos\WriteLine\WriteLine\obj\Debug\net6.0\WriteLine.AssemblyInfoInputs.cache
+C:\Users\mmsme\source\repos\WriteLine\WriteLine\obj\Debug\net6.0\WriteLine.AssemblyInfo.cs
+C:\Users\mmsme\source\repos\WriteLine\WriteLine\obj\Debug\net6.0\WriteLine.csproj.CoreCompileInputs.cache
+C:\Users\mmsme\source\repos\WriteLine\WriteLine\obj\Debug\net6.0\WriteLine.dll
+C:\Users\mmsme\source\repos\WriteLine\WriteLine\obj\Debug\net6.0\refint\WriteLine.dll
+C:\Users\mmsme\source\repos\WriteLine\WriteLine\obj\Debug\net6.0\WriteLine.pdb
+C:\Users\mmsme\source\repos\WriteLine\WriteLine\obj\Debug\net6.0\WriteLine.genruntimeconfig.cache
+C:\Users\mmsme\source\repos\WriteLine\WriteLine\obj\Debug\net6.0\ref\WriteLine.dll

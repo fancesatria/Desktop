@@ -1,0 +1,15 @@
+C:\Users\mmsme\source\repos\Static-This\Static-This\bin\Debug\net6.0\Static-This.exe
+C:\Users\mmsme\source\repos\Static-This\Static-This\bin\Debug\net6.0\Static-This.deps.json
+C:\Users\mmsme\source\repos\Static-This\Static-This\bin\Debug\net6.0\Static-This.runtimeconfig.json
+C:\Users\mmsme\source\repos\Static-This\Static-This\bin\Debug\net6.0\Static-This.dll
+C:\Users\mmsme\source\repos\Static-This\Static-This\bin\Debug\net6.0\Static-This.pdb
+C:\Users\mmsme\source\repos\Static-This\Static-This\obj\Debug\net6.0\Static-This.csproj.AssemblyReference.cache
+C:\Users\mmsme\source\repos\Static-This\Static-This\obj\Debug\net6.0\Static-This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmsme\source\repos\Static-This\Static-This\obj\Debug\net6.0\Static-This.AssemblyInfoInputs.cache
+C:\Users\mmsme\source\repos\Static-This\Static-This\obj\Debug\net6.0\Static-This.AssemblyInfo.cs
+C:\Users\mmsme\source\repos\Static-This\Static-This\obj\Debug\net6.0\Static-This.csproj.CoreCompileInputs.cache
+C:\Users\mmsme\source\repos\Static-This\Static-This\obj\Debug\net6.0\Static-This.dll
+C:\Users\mmsme\source\repos\Static-This\Static-This\obj\Debug\net6.0\refint\Static-This.dll
+C:\Users\mmsme\source\repos\Static-This\Static-This\obj\Debug\net6.0\Static-This.pdb
+C:\Users\mmsme\source\repos\Static-This\Static-This\obj\Debug\net6.0\Static-This.genruntimeconfig.cache
+C:\Users\mmsme\source\repos\Static-This\Static-This\obj\Debug\net6.0\ref\Static-This.dll

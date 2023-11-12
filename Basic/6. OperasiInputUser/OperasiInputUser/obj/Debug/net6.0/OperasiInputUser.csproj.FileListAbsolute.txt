@@ -1,0 +1,15 @@
+C:\Users\mmsme\source\repos\OperasiInputUser\OperasiInputUser\bin\Debug\net6.0\OperasiInputUser.exe
+C:\Users\mmsme\source\repos\OperasiInputUser\OperasiInputUser\bin\Debug\net6.0\OperasiInputUser.deps.json
+C:\Users\mmsme\source\repos\OperasiInputUser\OperasiInputUser\bin\Debug\net6.0\OperasiInputUser.runtimeconfig.json
+C:\Users\mmsme\source\repos\OperasiInputUser\OperasiInputUser\bin\Debug\net6.0\OperasiInputUser.dll
+C:\Users\mmsme\source\repos\OperasiInputUser\OperasiInputUser\bin\Debug\net6.0\OperasiInputUser.pdb
+C:\Users\mmsme\source\repos\OperasiInputUser\OperasiInputUser\obj\Debug\net6.0\OperasiInputUser.csproj.AssemblyReference.cache
+C:\Users\mmsme\source\repos\OperasiInputUser\OperasiInputUser\obj\Debug\net6.0\OperasiInputUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmsme\source\repos\OperasiInputUser\OperasiInputUser\obj\Debug\net6.0\OperasiInputUser.AssemblyInfoInputs.cache
+C:\Users\mmsme\source\repos\OperasiInputUser\OperasiInputUser\obj\Debug\net6.0\OperasiInputUser.AssemblyInfo.cs
+C:\Users\mmsme\source\repos\OperasiInputUser\OperasiInputUser\obj\Debug\net6.0\OperasiInputUser.csproj.CoreCompileInputs.cache
+C:\Users\mmsme\source\repos\OperasiInputUser\OperasiInputUser\obj\Debug\net6.0\OperasiInputUser.dll
+C:\Users\mmsme\source\repos\OperasiInputUser\OperasiInputUser\obj\Debug\net6.0\refint\OperasiInputUser.dll
+C:\Users\mmsme\source\repos\OperasiInputUser\OperasiInputUser\obj\Debug\net6.0\OperasiInputUser.pdb
+C:\Users\mmsme\source\repos\OperasiInputUser\OperasiInputUser\obj\Debug\net6.0\OperasiInputUser.genruntimeconfig.cache
+C:\Users\mmsme\source\repos\OperasiInputUser\OperasiInputUser\obj\Debug\net6.0\ref\OperasiInputUser.dll

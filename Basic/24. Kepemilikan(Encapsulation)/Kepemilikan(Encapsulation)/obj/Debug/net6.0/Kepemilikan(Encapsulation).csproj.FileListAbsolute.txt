@@ -1,0 +1,15 @@
+C:\Users\mmsme\source\repos\Kepemilikan(Encapsulation)\Kepemilikan(Encapsulation)\obj\Debug\net6.0\Kepemilikan(Encapsulation).csproj.AssemblyReference.cache
+C:\Users\mmsme\source\repos\Kepemilikan(Encapsulation)\Kepemilikan(Encapsulation)\obj\Debug\net6.0\Kepemilikan(Encapsulation).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmsme\source\repos\Kepemilikan(Encapsulation)\Kepemilikan(Encapsulation)\obj\Debug\net6.0\Kepemilikan(Encapsulation).AssemblyInfoInputs.cache
+C:\Users\mmsme\source\repos\Kepemilikan(Encapsulation)\Kepemilikan(Encapsulation)\obj\Debug\net6.0\Kepemilikan(Encapsulation).AssemblyInfo.cs
+C:\Users\mmsme\source\repos\Kepemilikan(Encapsulation)\Kepemilikan(Encapsulation)\obj\Debug\net6.0\Kepemilikan(Encapsulation).csproj.CoreCompileInputs.cache
+C:\Users\mmsme\source\repos\Kepemilikan(Encapsulation)\Kepemilikan(Encapsulation)\bin\Debug\net6.0\Kepemilikan(Encapsulation).exe
+C:\Users\mmsme\source\repos\Kepemilikan(Encapsulation)\Kepemilikan(Encapsulation)\bin\Debug\net6.0\Kepemilikan(Encapsulation).deps.json
+C:\Users\mmsme\source\repos\Kepemilikan(Encapsulation)\Kepemilikan(Encapsulation)\bin\Debug\net6.0\Kepemilikan(Encapsulation).runtimeconfig.json
+C:\Users\mmsme\source\repos\Kepemilikan(Encapsulation)\Kepemilikan(Encapsulation)\bin\Debug\net6.0\Kepemilikan(Encapsulation).dll
+C:\Users\mmsme\source\repos\Kepemilikan(Encapsulation)\Kepemilikan(Encapsulation)\bin\Debug\net6.0\Kepemilikan(Encapsulation).pdb
+C:\Users\mmsme\source\repos\Kepemilikan(Encapsulation)\Kepemilikan(Encapsulation)\obj\Debug\net6.0\Kepemilikan(Encapsulation).dll
+C:\Users\mmsme\source\repos\Kepemilikan(Encapsulation)\Kepemilikan(Encapsulation)\obj\Debug\net6.0\refint\Kepemilikan(Encapsulation).dll
+C:\Users\mmsme\source\repos\Kepemilikan(Encapsulation)\Kepemilikan(Encapsulation)\obj\Debug\net6.0\Kepemilikan(Encapsulation).pdb
+C:\Users\mmsme\source\repos\Kepemilikan(Encapsulation)\Kepemilikan(Encapsulation)\obj\Debug\net6.0\Kepemilikan(Encapsulation).genruntimeconfig.cache
+C:\Users\mmsme\source\repos\Kepemilikan(Encapsulation)\Kepemilikan(Encapsulation)\obj\Debug\net6.0\ref\Kepemilikan(Encapsulation).dll

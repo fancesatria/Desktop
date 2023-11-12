@@ -1,0 +1,74 @@
+﻿@model API2.Models.User
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>User</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.name)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.name)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.dateofbirth)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.dateofbirth)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.password)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.password)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.email)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.email)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.telp)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.telp)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.photo)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.photo)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

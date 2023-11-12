@@ -1,0 +1,15 @@
+C:\Users\mmsme\source\repos\IFBertingkat\IFBertingkat\bin\Debug\net6.0\IFBertingkat.exe
+C:\Users\mmsme\source\repos\IFBertingkat\IFBertingkat\bin\Debug\net6.0\IFBertingkat.deps.json
+C:\Users\mmsme\source\repos\IFBertingkat\IFBertingkat\bin\Debug\net6.0\IFBertingkat.runtimeconfig.json
+C:\Users\mmsme\source\repos\IFBertingkat\IFBertingkat\bin\Debug\net6.0\IFBertingkat.dll
+C:\Users\mmsme\source\repos\IFBertingkat\IFBertingkat\bin\Debug\net6.0\IFBertingkat.pdb
+C:\Users\mmsme\source\repos\IFBertingkat\IFBertingkat\obj\Debug\net6.0\IFBertingkat.csproj.AssemblyReference.cache
+C:\Users\mmsme\source\repos\IFBertingkat\IFBertingkat\obj\Debug\net6.0\IFBertingkat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmsme\source\repos\IFBertingkat\IFBertingkat\obj\Debug\net6.0\IFBertingkat.AssemblyInfoInputs.cache
+C:\Users\mmsme\source\repos\IFBertingkat\IFBertingkat\obj\Debug\net6.0\IFBertingkat.AssemblyInfo.cs
+C:\Users\mmsme\source\repos\IFBertingkat\IFBertingkat\obj\Debug\net6.0\IFBertingkat.csproj.CoreCompileInputs.cache
+C:\Users\mmsme\source\repos\IFBertingkat\IFBertingkat\obj\Debug\net6.0\IFBertingkat.dll
+C:\Users\mmsme\source\repos\IFBertingkat\IFBertingkat\obj\Debug\net6.0\refint\IFBertingkat.dll
+C:\Users\mmsme\source\repos\IFBertingkat\IFBertingkat\obj\Debug\net6.0\IFBertingkat.pdb
+C:\Users\mmsme\source\repos\IFBertingkat\IFBertingkat\obj\Debug\net6.0\IFBertingkat.genruntimeconfig.cache
+C:\Users\mmsme\source\repos\IFBertingkat\IFBertingkat\obj\Debug\net6.0\ref\IFBertingkat.dll

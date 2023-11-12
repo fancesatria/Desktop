@@ -1,0 +1,15 @@
+C:\Users\mmsme\source\repos\Variabel\Variabel\bin\Debug\net6.0\Variabel.exe
+C:\Users\mmsme\source\repos\Variabel\Variabel\bin\Debug\net6.0\Variabel.deps.json
+C:\Users\mmsme\source\repos\Variabel\Variabel\bin\Debug\net6.0\Variabel.runtimeconfig.json
+C:\Users\mmsme\source\repos\Variabel\Variabel\bin\Debug\net6.0\Variabel.dll
+C:\Users\mmsme\source\repos\Variabel\Variabel\bin\Debug\net6.0\Variabel.pdb
+C:\Users\mmsme\source\repos\Variabel\Variabel\obj\Debug\net6.0\Variabel.csproj.AssemblyReference.cache
+C:\Users\mmsme\source\repos\Variabel\Variabel\obj\Debug\net6.0\Variabel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmsme\source\repos\Variabel\Variabel\obj\Debug\net6.0\Variabel.AssemblyInfoInputs.cache
+C:\Users\mmsme\source\repos\Variabel\Variabel\obj\Debug\net6.0\Variabel.AssemblyInfo.cs
+C:\Users\mmsme\source\repos\Variabel\Variabel\obj\Debug\net6.0\Variabel.csproj.CoreCompileInputs.cache
+C:\Users\mmsme\source\repos\Variabel\Variabel\obj\Debug\net6.0\Variabel.dll
+C:\Users\mmsme\source\repos\Variabel\Variabel\obj\Debug\net6.0\refint\Variabel.dll
+C:\Users\mmsme\source\repos\Variabel\Variabel\obj\Debug\net6.0\Variabel.pdb
+C:\Users\mmsme\source\repos\Variabel\Variabel\obj\Debug\net6.0\Variabel.genruntimeconfig.cache
+C:\Users\mmsme\source\repos\Variabel\Variabel\obj\Debug\net6.0\ref\Variabel.dll

@@ -1,0 +1,15 @@
+C:\Users\mmsme\source\repos\DateChecker2\DateChecker2\bin\Debug\net6.0\DateChecker2.exe
+C:\Users\mmsme\source\repos\DateChecker2\DateChecker2\bin\Debug\net6.0\DateChecker2.deps.json
+C:\Users\mmsme\source\repos\DateChecker2\DateChecker2\bin\Debug\net6.0\DateChecker2.runtimeconfig.json
+C:\Users\mmsme\source\repos\DateChecker2\DateChecker2\bin\Debug\net6.0\DateChecker2.dll
+C:\Users\mmsme\source\repos\DateChecker2\DateChecker2\bin\Debug\net6.0\DateChecker2.pdb
+C:\Users\mmsme\source\repos\DateChecker2\DateChecker2\obj\Debug\net6.0\DateChecker2.csproj.AssemblyReference.cache
+C:\Users\mmsme\source\repos\DateChecker2\DateChecker2\obj\Debug\net6.0\DateChecker2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmsme\source\repos\DateChecker2\DateChecker2\obj\Debug\net6.0\DateChecker2.AssemblyInfoInputs.cache
+C:\Users\mmsme\source\repos\DateChecker2\DateChecker2\obj\Debug\net6.0\DateChecker2.AssemblyInfo.cs
+C:\Users\mmsme\source\repos\DateChecker2\DateChecker2\obj\Debug\net6.0\DateChecker2.csproj.CoreCompileInputs.cache
+C:\Users\mmsme\source\repos\DateChecker2\DateChecker2\obj\Debug\net6.0\DateChecker2.dll
+C:\Users\mmsme\source\repos\DateChecker2\DateChecker2\obj\Debug\net6.0\refint\DateChecker2.dll
+C:\Users\mmsme\source\repos\DateChecker2\DateChecker2\obj\Debug\net6.0\DateChecker2.pdb
+C:\Users\mmsme\source\repos\DateChecker2\DateChecker2\obj\Debug\net6.0\DateChecker2.genruntimeconfig.cache
+C:\Users\mmsme\source\repos\DateChecker2\DateChecker2\obj\Debug\net6.0\ref\DateChecker2.dll

@@ -1,0 +1,15 @@
+C:\Users\mmsme\source\repos\MethodBerparameter\MethodBerparameter\bin\Debug\net6.0\MethodBerparameter.exe
+C:\Users\mmsme\source\repos\MethodBerparameter\MethodBerparameter\bin\Debug\net6.0\MethodBerparameter.deps.json
+C:\Users\mmsme\source\repos\MethodBerparameter\MethodBerparameter\bin\Debug\net6.0\MethodBerparameter.runtimeconfig.json
+C:\Users\mmsme\source\repos\MethodBerparameter\MethodBerparameter\bin\Debug\net6.0\MethodBerparameter.dll
+C:\Users\mmsme\source\repos\MethodBerparameter\MethodBerparameter\bin\Debug\net6.0\MethodBerparameter.pdb
+C:\Users\mmsme\source\repos\MethodBerparameter\MethodBerparameter\obj\Debug\net6.0\MethodBerparameter.csproj.AssemblyReference.cache
+C:\Users\mmsme\source\repos\MethodBerparameter\MethodBerparameter\obj\Debug\net6.0\MethodBerparameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmsme\source\repos\MethodBerparameter\MethodBerparameter\obj\Debug\net6.0\MethodBerparameter.AssemblyInfoInputs.cache
+C:\Users\mmsme\source\repos\MethodBerparameter\MethodBerparameter\obj\Debug\net6.0\MethodBerparameter.AssemblyInfo.cs
+C:\Users\mmsme\source\repos\MethodBerparameter\MethodBerparameter\obj\Debug\net6.0\MethodBerparameter.csproj.CoreCompileInputs.cache
+C:\Users\mmsme\source\repos\MethodBerparameter\MethodBerparameter\obj\Debug\net6.0\MethodBerparameter.dll
+C:\Users\mmsme\source\repos\MethodBerparameter\MethodBerparameter\obj\Debug\net6.0\refint\MethodBerparameter.dll
+C:\Users\mmsme\source\repos\MethodBerparameter\MethodBerparameter\obj\Debug\net6.0\MethodBerparameter.pdb
+C:\Users\mmsme\source\repos\MethodBerparameter\MethodBerparameter\obj\Debug\net6.0\MethodBerparameter.genruntimeconfig.cache
+C:\Users\mmsme\source\repos\MethodBerparameter\MethodBerparameter\obj\Debug\net6.0\ref\MethodBerparameter.dll

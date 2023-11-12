@@ -1,0 +1,17 @@
+C:\Users\mmsme\source\repos\CobaPanel\CobaPanel\bin\Debug\CobaPanel.exe.config
+C:\Users\mmsme\source\repos\CobaPanel\CobaPanel\bin\Debug\CobaPanel.exe
+C:\Users\mmsme\source\repos\CobaPanel\CobaPanel\bin\Debug\CobaPanel.pdb
+C:\Users\mmsme\source\repos\CobaPanel\CobaPanel\obj\Debug\CobaPanel.csproj.AssemblyReference.cache
+C:\Users\mmsme\source\repos\CobaPanel\CobaPanel\obj\Debug\CobaPanel.csproj.SuggestedBindingRedirects.cache
+C:\Users\mmsme\source\repos\CobaPanel\CobaPanel\obj\Debug\CobaPanel.employee.resources
+C:\Users\mmsme\source\repos\CobaPanel\CobaPanel\obj\Debug\CobaPanel.food.resources
+C:\Users\mmsme\source\repos\CobaPanel\CobaPanel\obj\Debug\CobaPanel.Form1.resources
+C:\Users\mmsme\source\repos\CobaPanel\CobaPanel\obj\Debug\CobaPanel.MainForm.resources
+C:\Users\mmsme\source\repos\CobaPanel\CobaPanel\obj\Debug\CobaPanel.Properties.Resources.resources
+C:\Users\mmsme\source\repos\CobaPanel\CobaPanel\obj\Debug\CobaPanel.Report.resources
+C:\Users\mmsme\source\repos\CobaPanel\CobaPanel\obj\Debug\CobaPanel.Trahnsaction.resources
+C:\Users\mmsme\source\repos\CobaPanel\CobaPanel\obj\Debug\CobaPanel.User.resources
+C:\Users\mmsme\source\repos\CobaPanel\CobaPanel\obj\Debug\CobaPanel.csproj.GenerateResource.cache
+C:\Users\mmsme\source\repos\CobaPanel\CobaPanel\obj\Debug\CobaPanel.csproj.CoreCompileInputs.cache
+C:\Users\mmsme\source\repos\CobaPanel\CobaPanel\obj\Debug\CobaPanel.exe
+C:\Users\mmsme\source\repos\CobaPanel\CobaPanel\obj\Debug\CobaPanel.pdb

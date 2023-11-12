@@ -1,0 +1,15 @@
+C:\Users\mmsme\source\repos\DateChecker-IFELSE\DateChecker-IFELSE\bin\Debug\net6.0\DateChecker-IFELSE.exe
+C:\Users\mmsme\source\repos\DateChecker-IFELSE\DateChecker-IFELSE\bin\Debug\net6.0\DateChecker-IFELSE.deps.json
+C:\Users\mmsme\source\repos\DateChecker-IFELSE\DateChecker-IFELSE\bin\Debug\net6.0\DateChecker-IFELSE.runtimeconfig.json
+C:\Users\mmsme\source\repos\DateChecker-IFELSE\DateChecker-IFELSE\bin\Debug\net6.0\DateChecker-IFELSE.dll
+C:\Users\mmsme\source\repos\DateChecker-IFELSE\DateChecker-IFELSE\bin\Debug\net6.0\DateChecker-IFELSE.pdb
+C:\Users\mmsme\source\repos\DateChecker-IFELSE\DateChecker-IFELSE\obj\Debug\net6.0\DateChecker-IFELSE.csproj.AssemblyReference.cache
+C:\Users\mmsme\source\repos\DateChecker-IFELSE\DateChecker-IFELSE\obj\Debug\net6.0\DateChecker-IFELSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmsme\source\repos\DateChecker-IFELSE\DateChecker-IFELSE\obj\Debug\net6.0\DateChecker-IFELSE.AssemblyInfoInputs.cache
+C:\Users\mmsme\source\repos\DateChecker-IFELSE\DateChecker-IFELSE\obj\Debug\net6.0\DateChecker-IFELSE.AssemblyInfo.cs
+C:\Users\mmsme\source\repos\DateChecker-IFELSE\DateChecker-IFELSE\obj\Debug\net6.0\DateChecker-IFELSE.csproj.CoreCompileInputs.cache
+C:\Users\mmsme\source\repos\DateChecker-IFELSE\DateChecker-IFELSE\obj\Debug\net6.0\DateChecker-IFELSE.dll
+C:\Users\mmsme\source\repos\DateChecker-IFELSE\DateChecker-IFELSE\obj\Debug\net6.0\refint\DateChecker-IFELSE.dll
+C:\Users\mmsme\source\repos\DateChecker-IFELSE\DateChecker-IFELSE\obj\Debug\net6.0\DateChecker-IFELSE.pdb
+C:\Users\mmsme\source\repos\DateChecker-IFELSE\DateChecker-IFELSE\obj\Debug\net6.0\DateChecker-IFELSE.genruntimeconfig.cache
+C:\Users\mmsme\source\repos\DateChecker-IFELSE\DateChecker-IFELSE\obj\Debug\net6.0\ref\DateChecker-IFELSE.dll
