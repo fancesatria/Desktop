@@ -115,6 +115,11 @@
     <Compile Include="Register.Designer.cs">
       <DependentUpon>Register.cs</DependentUpon>
     </Compile>
+    <Compile Include="Tes1DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Tes1DataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="TiketSaya.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -184,6 +189,17 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="Tes1DataSet.xsc">
+      <DependentUpon>Tes1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Tes1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Tes1DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Tes1DataSet.xss">
+      <DependentUpon>Tes1DataSet.xsd</DependentUpon>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

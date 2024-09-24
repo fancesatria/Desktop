@@ -21,3 +21,25 @@ C:\Users\Windows\source\repos\DESKTOP_25\DESKTOP_25\obj\Debug\DESKTOP_25.BeliTik
 C:\Users\Windows\source\repos\DESKTOP_25\DESKTOP_25\obj\Debug\DESKTOP_25.ListPenerbangan.resources
 C:\Users\Windows\source\repos\DESKTOP_25\DESKTOP_25\obj\Debug\DESKTOP_25.MainForm.resources
 C:\Users\Windows\source\repos\DESKTOP_25\DESKTOP_25\obj\Debug\DESKTOP_25.TiketSaya.resources
+C:\Users\fance\OneDrive\Documents\Dokumen\GitHub\Desktop\BromoAirlines-ticket reservation\DESKTOP_25\bin\Debug\DESKTOP_25.exe.config
+C:\Users\fance\OneDrive\Documents\Dokumen\GitHub\Desktop\BromoAirlines-ticket reservation\DESKTOP_25\bin\Debug\DESKTOP_25.exe
+C:\Users\fance\OneDrive\Documents\Dokumen\GitHub\Desktop\BromoAirlines-ticket reservation\DESKTOP_25\bin\Debug\DESKTOP_25.pdb
+C:\Users\fance\OneDrive\Documents\Dokumen\GitHub\Desktop\BromoAirlines-ticket reservation\DESKTOP_25\obj\Debug\DESKTOP_25.csproj.AssemblyReference.cache
+C:\Users\fance\OneDrive\Documents\Dokumen\GitHub\Desktop\BromoAirlines-ticket reservation\DESKTOP_25\obj\Debug\DESKTOP_25.Admin.resources
+C:\Users\fance\OneDrive\Documents\Dokumen\GitHub\Desktop\BromoAirlines-ticket reservation\DESKTOP_25\obj\Debug\DESKTOP_25.AdminForm.resources
+C:\Users\fance\OneDrive\Documents\Dokumen\GitHub\Desktop\BromoAirlines-ticket reservation\DESKTOP_25\obj\Debug\DESKTOP_25.BeliTiket.resources
+C:\Users\fance\OneDrive\Documents\Dokumen\GitHub\Desktop\BromoAirlines-ticket reservation\DESKTOP_25\obj\Debug\DESKTOP_25.Form1.resources
+C:\Users\fance\OneDrive\Documents\Dokumen\GitHub\Desktop\BromoAirlines-ticket reservation\DESKTOP_25\obj\Debug\DESKTOP_25.ListPenerbangan.resources
+C:\Users\fance\OneDrive\Documents\Dokumen\GitHub\Desktop\BromoAirlines-ticket reservation\DESKTOP_25\obj\Debug\DESKTOP_25.MainForm.resources
+C:\Users\fance\OneDrive\Documents\Dokumen\GitHub\Desktop\BromoAirlines-ticket reservation\DESKTOP_25\obj\Debug\DESKTOP_25.MasterBandara.resources
+C:\Users\fance\OneDrive\Documents\Dokumen\GitHub\Desktop\BromoAirlines-ticket reservation\DESKTOP_25\obj\Debug\DESKTOP_25.MasterJadwalPenerbangan.resources
+C:\Users\fance\OneDrive\Documents\Dokumen\GitHub\Desktop\BromoAirlines-ticket reservation\DESKTOP_25\obj\Debug\DESKTOP_25.MasterKodePromo.resources
+C:\Users\fance\OneDrive\Documents\Dokumen\GitHub\Desktop\BromoAirlines-ticket reservation\DESKTOP_25\obj\Debug\DESKTOP_25.MasterMaskapai.resources
+C:\Users\fance\OneDrive\Documents\Dokumen\GitHub\Desktop\BromoAirlines-ticket reservation\DESKTOP_25\obj\Debug\DESKTOP_25.Properties.Resources.resources
+C:\Users\fance\OneDrive\Documents\Dokumen\GitHub\Desktop\BromoAirlines-ticket reservation\DESKTOP_25\obj\Debug\DESKTOP_25.Register.resources
+C:\Users\fance\OneDrive\Documents\Dokumen\GitHub\Desktop\BromoAirlines-ticket reservation\DESKTOP_25\obj\Debug\DESKTOP_25.TiketSaya.resources
+C:\Users\fance\OneDrive\Documents\Dokumen\GitHub\Desktop\BromoAirlines-ticket reservation\DESKTOP_25\obj\Debug\DESKTOP_25.UbahStatus.resources
+C:\Users\fance\OneDrive\Documents\Dokumen\GitHub\Desktop\BromoAirlines-ticket reservation\DESKTOP_25\obj\Debug\DESKTOP_25.csproj.GenerateResource.cache
+C:\Users\fance\OneDrive\Documents\Dokumen\GitHub\Desktop\BromoAirlines-ticket reservation\DESKTOP_25\obj\Debug\DESKTOP_25.csproj.CoreCompileInputs.cache
+C:\Users\fance\OneDrive\Documents\Dokumen\GitHub\Desktop\BromoAirlines-ticket reservation\DESKTOP_25\obj\Debug\DESKTOP_25.exe
+C:\Users\fance\OneDrive\Documents\Dokumen\GitHub\Desktop\BromoAirlines-ticket reservation\DESKTOP_25\obj\Debug\DESKTOP_25.pdb
